@@ -1,0 +1,1 @@
+gcc A_1_1_code.c -o A_1_1_p.exe && A_1_1_p.exe
