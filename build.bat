@@ -1,0 +1,1 @@
+gcc main.c -0 main.exe && main.exe
